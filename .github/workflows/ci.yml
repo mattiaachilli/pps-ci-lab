@@ -21,3 +21,4 @@ jobs:
           java-version: 15
       - name: Build
         run: ./gradlew check
+        
